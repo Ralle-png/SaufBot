@@ -1,0 +1,571 @@
+{
+  "37 - ThirtySeven": {
+    "Zutaten": {
+      "ingr1": "4 cl Rum Cuba",
+      "ingr2": "4 cl Rum Jamaica",
+      "ingr3": "4 cl Rum Spiced, Captain Morgan Spiced Gold",
+      "ingr4": "2 cl Zitronensaft",
+      "ingr5": "2 cl Creme De Cacao (weiss)",
+      "ingr6": "4 cl Erdbeersirup",
+      "ingr7": "10 cl Bananennektar"
+    },
+    "AlkGehalt": "17,6 Vol.-%",
+    "Plaintext": "4 cl Rum Cuba4 cl Rum Jamaica4 cl Rum Spiced, Captain Morgan Spiced Gold2 cl Zitronensaft2 cl Creme De Cacao (weiss)4 cl Erdbeersirup10 cl Bananennektar",
+    "Bewertung": "5,0 nach 9 Bewertungen."
+  },
+  "43 Sour": {
+    "Zutaten": {
+      "ingr1": "5 cl Licor43",
+      "ingr2": "2 cl Zitronensaft",
+      "ingr3": "1 cl Zuckersirup",
+      "ingr4": "8 cl Orangensaft"
+    },
+    "AlkGehalt": "10,6 Vol.-%",
+    "Plaintext": "5 cl Licor43 2 cl Zitronensaft1 cl Zuckersirup8 cl Orangensaft",
+    "Bewertung": "5,0 nach 2 Bewertungen."
+  },
+  "43 Sunset": {
+    "Zutaten": {
+      "ingr1": "8 cl Maracujasaft",
+      "ingr2": "4 cl Ananassaft",
+      "ingr3": "3 cl Licor43",
+      "ingr4": "2 cl Kokoslik\u00f6r, Malibu",
+      "ingr5": "2 cl Wodka"
+    },
+    "AlkGehalt": "11,7 Vol.-%",
+    "Plaintext": "8 cl Maracujasaft4 cl Ananassaft3 cl Licor43 2 cl Kokoslik\u00f6r, Malibu2 cl Wodka",
+    "Bewertung": "5,0 nach 22 Bewertungen."
+  },
+  "43er a\u00f9 lait": {
+    "Zutaten": {
+      "ingr1": "43 Milch",
+      "ingr2": "Absinth"
+    },
+    "AlkGehalt": "34,7 Vol.-%",
+    "Plaintext": "Licor43 MilchAbsinth",
+    "Bewertung": "4,1 nach 9 Bewertungen."
+  },
+  "43er Caipi": {
+    "Zutaten": {
+      "ingr1": "1 Limette",
+      "ingr2": "3 BL Rohrzucker",
+      "ingr3": "4 cl Licor43",
+      "ingr4": "2 cl Wodka"
+    },
+    "AlkGehalt": "28,8 Vol.-%",
+    "Plaintext": "1 Limette3 BL Rohrzucker4 cl Licor43 2 cl Wodka",
+    "Bewertung": "5,0 nach 2 Bewertungen."
+  },
+  "43er Ed von Schleck": {
+    "Zutaten": {
+      "ingr1": "5 cl Licor43",
+      "ingr2": "2 cl Vanillesirup",
+      "ingr3": "3 cl Karamellsirup",
+      "ingr4": "2 cl Erdbeersirup",
+      "ingr5": "Maracujasaft",
+      "ingr6": "Orangensaft"
+    },
+    "AlkGehalt": "4,7 Vol.-%",
+    "Plaintext": "5 cl Licor43 2 cl Vanillesirup3 cl KaramellsirupMaracujasaftOrangensaft2 cl Erdbeersirup",
+    "Bewertung": "5,0 nach 3 Bewertungen."
+  },
+  "43er Sour": {
+    "Zutaten": {
+      "ingr1": "5 cl Licor43",
+      "ingr2": "3,5 cl Zitronensaft",
+      "ingr3": "1,5 cl Rohrzucker",
+      "ingr4": "10 cl Orangensaft"
+    },
+    "AlkGehalt": "8,5 Vol.-%",
+    "Plaintext": "5 cl Licor43 3,5 cl Zitronensaft1,5 cl Rohrzucker10 cl Orangensaft",
+    "Bewertung": "5,0 nach 6 Bewertungen."
+  },
+  "43er Sour Summer": {
+    "Zutaten": {
+      "ingr1": "7 cl Licor43",
+      "ingr2": "3 cl Zitronensaft",
+      "ingr3": "2 cl Zuckersirup",
+      "ingr4": "9 cl Orangensaft",
+      "ingr5": "2 cl Grenadine"
+    },
+    "AlkGehalt": "10,3 Vol.-%",
+    "Plaintext": "7 cl Licor43 3 cl Zitronensaft2 cl Zuckersirup9 cl Orangensaft2 cl Grenadine",
+    "Bewertung": "5,0 nach 2 Bewertungen."
+  },
+  "43er Special": {
+    "Zutaten": {
+      "ingr1": "3 cl Licor43",
+      "ingr2": "2 cl Wodka",
+      "ingr3": "1 cl Rohrzucker",
+      "ingr4": "8 cl Maracujasaft",
+      "ingr5": "4 cl Orangensaft"
+    },
+    "AlkGehalt": "10,1 Vol.-%",
+    "Plaintext": "3 cl Licor43 2 cl Wodka1 cl Rohrzucker8 cl Maracujasaft4 cl Orangensaft",
+    "Bewertung": "5,0 nach 5 Bewertungen."
+  },
+  "911 Targa": {
+    "Zutaten": {
+      "ingr1": "1 Anteil(e) Orangensaft",
+      "ingr2": "1 Anteil(e) Maracujasaft",
+      "ingr3": "1 Anteil(e) Ananassaft",
+      "ingr4": "Zitrone",
+      "ingr5": "Grenadine"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "1 Anteil(e) Orangensaft1 Anteil(e) Maracujasaft1 Anteil(e) AnanassaftZitroneGrenadine",
+    "Bewertung": "4,1 nach 21 Bewertungen."
+  },
+  "A 72": {
+    "Zutaten": {
+      "ingr1": "2 cl Lime Juice",
+      "ingr2": "5 cl Sauerkirschsaft",
+      "ingr3": "1 cl Erdbeersirup",
+      "ingr4": "Tonicwater"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "2 cl Lime Juice5 cl Sauerkirschsaft1 cl ErdbeersirupTonicwater",
+    "Bewertung": "4,5 nach 15 Bewertungen."
+  },
+  "A Day at the Beach": {
+    "Zutaten": {
+      "ingr1": "2 cl Amaretto",
+      "ingr2": "3 cl Kokoslik\u00f6r, Malibu",
+      "ingr3": "2 cl Grenadine",
+      "ingr4": "12 cl Orangensaft"
+    },
+    "AlkGehalt": "5,8 Vol.-%",
+    "Plaintext": "2 cl Amaretto3 cl Kokoslik\u00f6r, Malibu2 cl Grenadine12 cl Orangensaft",
+    "Bewertung": "4,6 nach 5 Bewertungen."
+  },
+  "A Kick in the Crotch": {
+    "Zutaten": {
+      "ingr1": "2 cl Wodka",
+      "ingr2": "1,5 cl Blue Cura\u00e7ao",
+      "ingr3": "1,5 cl Cranberrysaft"
+    },
+    "AlkGehalt": "22,3 Vol.-%",
+    "Plaintext": "2 cl Wodka1,5 cl Blue Cura\u00e7ao1,5 cl Cranberrysaft",
+    "Bewertung": "4,2 nach 5 Bewertungen."
+  },
+  "A Night at the Gutis": {
+    "Zutaten": {
+      "ingr1": "4 cl Wodka",
+      "ingr2": "2 cl Kokoslik\u00f6r, Malibu",
+      "ingr3": "2 cl Pfirsichlik\u00f6r, Peachtree",
+      "ingr4": "1 cl Kokossirup",
+      "ingr5": "5 cl Bananennektar",
+      "ingr6": "5 cl Ananassaft"
+    },
+    "AlkGehalt": "12,6 Vol.-%",
+    "Plaintext": "4 cl Wodka2 cl Kokoslik\u00f6r, Malibu2 cl Pfirsichlik\u00f6r, Peachtree1 cl Kokossirup5 cl Bananennektar5 cl Ananassaft",
+    "Bewertung": "5,0 nach 3 Bewertungen."
+  },
+  "A Piece of Ass": {
+    "Zutaten": {
+      "ingr1": "1 oz Amaretto",
+      "ingr2": "1 oz Southern Comfort",
+      "ingr3": "Sweetsour"
+    },
+    "AlkGehalt": "9,9 Vol.-%",
+    "Plaintext": "1 oz Amaretto1 oz Southern ComfortSweetsour",
+    "Bewertung": "5,0 nach 1 Bewertung."
+  },
+  "A Wonderleaf a Day": {
+    "Zutaten": {
+      "ingr1": "6 cl Siegfried Wonderleaf",
+      "ingr2": "1/4 Apfel",
+      "ingr3": "2 cl Lavendelsirup",
+      "ingr4": "3 cl Zitronensaft",
+      "ingr5": "2 cl Eiwei\u00df"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "6 cl Siegfried Wonderleaf1/4 Apfel2 cl Lavendelsirup3 cl Zitronensaft2 cl Eiwei\u00df",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "Abacaxi Caipirinha": {
+    "Zutaten": {
+      "ingr1": "5 cl Cacha\u00e7a",
+      "ingr2": "3 EL Ananas",
+      "ingr3": "10 ml Ananassaft",
+      "ingr4": "1 TL Rohrzucker",
+      "ingr5": "0,5 Limette"
+    },
+    "AlkGehalt": "18,2 Vol.-%",
+    "Plaintext": "5 cl Cacha\u00e7a3 EL Ananas10 ml Ananassaft1 TL Rohrzucker0,5 Limette",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "Abacco": {
+    "Zutaten": {
+      "ingr1": "3 cl Licor43",
+      "ingr2": "2 cl Tequila (silver)",
+      "ingr3": "1 cl Sherry Medium",
+      "ingr4": "1 cl Blue Cura\u00e7ao",
+      "ingr5": "2 cl Sahne",
+      "ingr6": "12 cl Pfirsichsaft"
+    },
+    "AlkGehalt": "10,4 Vol.-%",
+    "Plaintext": "3 cl Licor43 2 cl Tequila (silver)1 cl Sherry Medium1 cl Blue Cura\u00e7ao2 cl Sahne12 cl Pfirsichsaft",
+    "Bewertung": "2,3 nach 6 Bewertungen."
+  },
+  "Abbey Cocktail": {
+    "Zutaten": {
+      "ingr1": "1,5 oz Gin",
+      "ingr2": "0,8 oz Lillet Blanc",
+      "ingr3": "1 oz Orangensaft",
+      "ingr4": "1 Spritzer Angostura"
+    },
+    "AlkGehalt": "22,6 Vol.-%",
+    "Plaintext": "1,5 oz Gin0,8 oz Lillet Blanc1 oz Orangensaft1 Spritzer Angostura",
+    "Bewertung": "3,5 nach 4 Bewertungen."
+  },
+  "ABC": {
+    "Zutaten": {
+      "ingr1": "2 cl Amaretto",
+      "ingr2": "2 cl Irischer Cremelik\u00f6r, Baileys",
+      "ingr3": "2 cl Orangenlik\u00f6r, Cointreau"
+    },
+    "AlkGehalt": "24 Vol.-%",
+    "Plaintext": "2 cl Amaretto2 cl Irischer Cremelik\u00f6r, Baileys2 cl Orangenlik\u00f6r, Cointreau",
+    "Bewertung": "4,0 nach 1 Bewertung."
+  },
+  "Abendsonne": {
+    "Zutaten": {
+      "ingr1": "4 cl Sahne",
+      "ingr2": "1 cl Grenadine",
+      "ingr3": "2 cl Bananennektar"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "4 cl Sahne1 cl Grenadine2 cl Bananennektar",
+    "Bewertung": "4,4 nach 22 Bewertungen."
+  },
+  "ABI Cooler - 2000": {
+    "Zutaten": {
+      "ingr1": "4 cl Blue Cura\u00e7ao",
+      "ingr2": "4 cl Rum (weiss)",
+      "ingr3": "Orangensaft",
+      "ingr4": "Gingerale"
+    },
+    "AlkGehalt": "13,1 Vol.-%",
+    "Plaintext": "4 cl Blue Cura\u00e7ao4 cl Rum (weiss)OrangensaftGingerale",
+    "Bewertung": "4,6 nach 16 Bewertungen."
+  },
+  "Abpfiff": {
+    "Zutaten": {
+      "ingr1": "1,5 cl Apfelsirup",
+      "ingr2": "1 cl Wodka",
+      "ingr3": "1,5 cl Apricot Brandy"
+    },
+    "AlkGehalt": "19 Vol.-%",
+    "Plaintext": "1,5 cl Apfelsirup1 cl Wodka1,5 cl Apricot Brandy",
+    "Bewertung": "3,0 nach 4 Bewertungen."
+  },
+  "Abseitsfalle": {
+    "Zutaten": {
+      "ingr1": "2 cl Tequila (silver)",
+      "ingr2": "1 Spritzer Grapefruitsirup",
+      "ingr3": "2 cl Cura\u00e7ao Triple Sec",
+      "ingr4": "2 cl Blue Cura\u00e7ao",
+      "ingr5": "2 cl Rum (weiss)",
+      "ingr6": "Zitronenlimonade"
+    },
+    "AlkGehalt": "14,7 Vol.-%",
+    "Plaintext": "2 cl Tequila (silver)1 Spritzer Grapefruitsirup2 cl Cura\u00e7ao Triple Sec2 cl Blue Cura\u00e7ao2 cl Rum (weiss)Zitronenlimonade",
+    "Bewertung": "4,5 nach 2 Bewertungen."
+  },
+  "Absinth Alligator": {
+    "Zutaten": {
+      "ingr1": "6 cl Orangensaft",
+      "ingr2": "6 cl Maracujasaft",
+      "ingr3": "2 cl Absinth",
+      "ingr4": "2 cl Blue Cura\u00e7ao"
+    },
+    "AlkGehalt": "11,4 Vol.-%",
+    "Plaintext": "6 cl Orangensaft6 cl Maracujasaft2 cl Absinth2 cl Blue Cura\u00e7ao",
+    "Bewertung": "4,7 nach 7 Bewertungen."
+  },
+  "Absinth Blue Ice": {
+    "Zutaten": {
+      "ingr1": "2 cl Absinth",
+      "ingr2": "1 cl Blue Cura\u00e7ao",
+      "ingr3": "200 ml Bitterlemon"
+    },
+    "AlkGehalt": "7 Vol.-%",
+    "Plaintext": "2 cl Absinth1 cl Blue Cura\u00e7ao200 ml Bitterlemon",
+    "Bewertung": "4,7 nach 6 Bewertungen."
+  },
+  "Absinth Cocktail": {
+    "Zutaten": {
+      "ingr1": "1 Anteil(e) Absinth",
+      "ingr2": "1 Anteil(e) Wasser",
+      "ingr3": "1 Spritzer Zitronensirup",
+      "ingr4": "1 Spritzer Angostura"
+    },
+    "AlkGehalt": "22 Vol.-%",
+    "Plaintext": "1 Anteil(e) Absinth1 Anteil(e) Wasser1 Spritzer Zitronensirup1 Spritzer Angostura",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "Absolut Apeach Surrender": {
+    "Zutaten": {
+      "ingr1": "6 cl Wodka Peach, Absolut Apeach",
+      "ingr2": "1 cl Grenadine",
+      "ingr3": "4 cl Orangensaft"
+    },
+    "AlkGehalt": "21,8 Vol.-%",
+    "Plaintext": "6 cl Wodka Peach, Absolut Apeach1 cl Grenadine4 cl Orangensaft",
+    "Bewertung": "1,0 nach 2 Bewertungen."
+  },
+  "Absolut Hammer": {
+    "Zutaten": {
+      "ingr1": "12 cl Ananassaft",
+      "ingr2": "6 cl Batida De Coco",
+      "ingr3": "2 cl Grenadine",
+      "ingr4": "6 cl Wodka",
+      "ingr5": "4 cl Kiwilik\u00f6r"
+    },
+    "AlkGehalt": "13,9 Vol.-%",
+    "Plaintext": "12 cl Ananassaft6 cl Batida De Coco2 cl Grenadine6 cl Wodka4 cl Kiwilik\u00f6r",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "Absolut Summertime": {
+    "Zutaten": {
+      "ingr1": "5 cl Absolut Wodka Citron",
+      "ingr2": "2 cl Sweetsour",
+      "ingr3": "2 cl Zitronenlimonade, Sprite",
+      "ingr4": "6 cl Soda",
+      "ingr5": "0,1 Stk. Zitrone"
+    },
+    "AlkGehalt": "13,3 Vol.-%",
+    "Plaintext": "5 cl Absolut Wodka Citron2 cl Sweetsour2 cl Zitronenlimonade, Sprite6 cl Soda0,1 Stk. Zitrone",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "Absolutely Free": {
+    "Zutaten": {
+      "ingr1": "2 cl Ananassirup",
+      "ingr2": "1 cl Zuckersirup",
+      "ingr3": "15 cl Grapefruitsaft"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "2 cl Ananassirup1 cl Zuckersirup15 cl Grapefruitsaft",
+    "Bewertung": "4,5 nach 4 Bewertungen."
+  },
+  "A\u00e7a\u00ed Ice Tea 28": {
+    "Zutaten": {
+      "ingr1": "3 cl Holunderbl\u00fctenlik\u00f6r, Bols",
+      "ingr2": "5 cl Zitronensaft",
+      "ingr3": "2 cl Rohrzucker",
+      "ingr4": "10 cl Energiedrink, Twentyeight Black Acai"
+    },
+    "AlkGehalt": "3 Vol.-%",
+    "Plaintext": "3 cl Holunderbl\u00fctenlik\u00f6r, Bols5 cl Zitronensaft2 cl Rohrzucker10 cl Energiedrink, Twentyeight Black Acai",
+    "Bewertung": "5,0 nach 1 Bewertung."
+  },
+  "Acapulco": {
+    "Zutaten": {
+      "ingr1": "2 cl Rum (braun)",
+      "ingr2": "2 cl Tequila (silver)",
+      "ingr3": "2 cl Kokossirup",
+      "ingr4": "4 cl Ananassaft",
+      "ingr5": "2 cl Grapefruitsaft"
+    },
+    "AlkGehalt": "13 Vol.-%",
+    "Plaintext": "2 cl Rum (braun)2 cl Tequila (silver)2 cl Kokossirup4 cl Ananassaft2 cl Grapefruitsaft",
+    "Bewertung": "2,4 nach 5 Bewertungen."
+  },
+  "Acapulco Dream": {
+    "Zutaten": {
+      "ingr1": "3 cl Tequila (silver)",
+      "ingr2": "4 cl Grapefruitsaft",
+      "ingr3": "1 cl Rum (braun)",
+      "ingr4": "10 cl Ananassaft"
+    },
+    "AlkGehalt": "8,6 Vol.-%",
+    "Plaintext": "3 cl Tequila (silver)4 cl Grapefruitsaft1 cl Rum (braun)10 cl Ananassaft",
+    "Bewertung": "4,2 nach 6 Bewertungen."
+  },
+  "Acapulco on the rocks": {
+    "Zutaten": {
+      "ingr1": "4 cl Rum (braun)",
+      "ingr2": "4 cl Tequila (silver)",
+      "ingr3": "10 cl Ananassaft",
+      "ingr4": "2 cl Lime Juice"
+    },
+    "AlkGehalt": "15,6 Vol.-%",
+    "Plaintext": "4 cl Rum (braun)4 cl Tequila (silver)10 cl Ananassaft2 cl Lime Juice",
+    "Bewertung": "2,3 nach 3 Bewertungen."
+  },
+  "Adam and Eve": {
+    "Zutaten": {
+      "ingr1": "4 cl Apfelsaft",
+      "ingr2": "4 cl Orangensaft",
+      "ingr3": "Gingerale",
+      "ingr4": "Grenadine"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "4 cl Apfelsaft4 cl OrangensaftGingeraleGrenadine",
+    "Bewertung": "5,0 nach 1 Bewertung."
+  },
+  "Adams Delight": {
+    "Zutaten": {
+      "ingr1": "4 cl Mangosirup",
+      "ingr2": "4 cl Zitronensaft",
+      "ingr3": "1 BL Zucker (weiss)",
+      "ingr4": "1 MSp. Vanille",
+      "ingr5": "1 Limette",
+      "ingr6": "1 Mango",
+      "ingr7": "Sp"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "4 cl Mangosirup4 cl Zitronensaft1 BL Zucker (weiss)1 MSp. Vanille1 Limette1 Mango",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "Adios Motherfucker": {
+    "Zutaten": {
+      "ingr1": "1,5 cl Wodka",
+      "ingr2": "1,5 cl Rum (weiss), Havana Club",
+      "ingr3": "1,5 cl Tequila (silver)",
+      "ingr4": "1,5 cl Gin",
+      "ingr5": "1,5 cl Blue Cura\u00e7ao",
+      "ingr6": "6 cl Zitronenlimonade"
+    },
+    "AlkGehalt": "19,7 Vol.-%",
+    "Plaintext": "1,5 cl Wodka1,5 cl Rum (weiss), Havana Club1,5 cl Tequila (silver)1,5 cl Gin1,5 cl Blue Cura\u00e7ao6 cl Zitronenlimonade",
+    "Bewertung": "4,4 nach 7 Bewertungen."
+  },
+  "Adonis": {
+    "Zutaten": {
+      "ingr1": "2 cl Vermouth Bianco",
+      "ingr2": "1 cl Vermouth Rosso",
+      "ingr3": "2 cl Sherry Fino",
+      "ingr4": "1 Spritzer Orangenbitter"
+    },
+    "AlkGehalt": "16,2 Vol.-%",
+    "Plaintext": "2 cl Vermouth Bianco1 cl Vermouth Rosso2 cl Sherry Fino1 Spritzer Orangenbitter",
+    "Bewertung": "2,8 nach 7 Bewertungen."
+  },
+  "Adria Look": {
+    "Zutaten": {
+      "ingr1": "2 cl Gin",
+      "ingr2": "2 cl Blue Cura\u00e7ao",
+      "ingr3": "2 cl Zitronensaft",
+      "ingr4": "Sekt"
+    },
+    "AlkGehalt": "16,9 Vol.-%",
+    "Plaintext": "2 cl Gin2 cl Blue Cura\u00e7ao2 cl ZitronensaftSekt",
+    "Bewertung": "4,1 nach 8 Bewertungen."
+  },
+  "Affinity": {
+    "Zutaten": {
+      "ingr1": "1 Anteil(e) Whiskey",
+      "ingr2": "1 Anteil(e) Vermouth Dry",
+      "ingr3": "1 Anteil(e) Vermouth Rosso, Martini",
+      "ingr4": "2 Spritzer Angostura"
+    },
+    "AlkGehalt": "44 Vol.-%",
+    "Plaintext": "1 Anteil(e) Whiskey (Scotch)1 Anteil(e) Vermouth Dry1 Anteil(e) Vermouth Rosso, Martini2 Spritzer Angostura",
+    "Bewertung": "Keine Bewertungen."
+  },
+  "African Breeze": {
+    "Zutaten": {
+      "ingr1": "5 cl Amarula",
+      "ingr2": "2,5 cl Gin"
+    },
+    "AlkGehalt": "24,7 Vol.-%",
+    "Plaintext": "5 cl Amarula2,5 cl Gin",
+    "Bewertung": "4,2 nach 5 Bewertungen."
+  },
+  "African Dream": {
+    "Zutaten": {
+      "ingr1": "2 cl Wodka",
+      "ingr2": "4 cl Amarula",
+      "ingr3": "6 cl Orangensaft",
+      "ingr4": "4 cl Maracujasaft",
+      "ingr5": "6 cl Ananassaft"
+    },
+    "AlkGehalt": "6,7 Vol.-%",
+    "Plaintext": "2 cl Wodka4 cl Amarula6 cl Orangensaft4 cl Maracujasaft6 cl Ananassaft",
+    "Bewertung": "4,4 nach 14 Bewertungen."
+  },
+  "African Queen": {
+    "Zutaten": {
+      "ingr1": "4 cl Amarula",
+      "ingr2": "4 cl Kirschsaft",
+      "ingr3": "4 cl Milch"
+    },
+    "AlkGehalt": "5,7 Vol.-%",
+    "Plaintext": "4 cl Amarula4 cl Kirschsaft4 cl Milch",
+    "Bewertung": "4,3 nach 7 Bewertungen."
+  },
+  "African Queen  #2": {
+    "Zutaten": {
+      "ingr1": "6 cl Bananennektar",
+      "ingr2": "5 cl Wei\u00dfwein (trocken)",
+      "ingr3": "5 cl Maracujasaft"
+    },
+    "AlkGehalt": "3,8 Vol.-%",
+    "Plaintext": "6 cl Bananennektar5 cl Wei\u00dfwein (trocken)5 cl Maracujasaft",
+    "Bewertung": "5,0 nach 3 Bewertungen."
+  },
+  "African Vanilla Cocktail": {
+    "Zutaten": {
+      "ingr1": "2 cl Creme De Cacao (weiss)",
+      "ingr2": "1 cl Mandelsirup",
+      "ingr3": "8 cl Maracujasaft",
+      "ingr4": "4 cl Apfelsaft",
+      "ingr5": "3 cl Sahne",
+      "ingr6": "3 cl Vanillesirup",
+      "ingr7": "2 cl Zimtsirup",
+      "ingr8": "4 cl Amarula",
+      "ingr9": "4 cl Wodka",
+      "ingr10": "6 cl Orangensaft"
+    },
+    "AlkGehalt": "7,5 Vol.-%",
+    "Plaintext": "2 cl Creme De Cacao (weiss)1 cl Mandelsirup8 cl Maracujasaft4 cl Apfelsaft3 cl Sahne3 cl Vanillesirup2 cl Zimtsirup4 cl Amarula4 cl Wodka6 cl Orangensaft",
+    "Bewertung": "4,3 nach 19 Bewertungen."
+  },
+  "After 18 Hour": {
+    "Zutaten": {
+      "ingr1": "2 cl Red Orange",
+      "ingr2": "3 cl Vermouth Bianco",
+      "ingr3": "4 cl Aperol",
+      "ingr4": "2 cl Zitronensaft",
+      "ingr5": "2 cl Lime Juice"
+    },
+    "AlkGehalt": "10,9 Vol.-%",
+    "Plaintext": "2 cl Red Orange3 cl Vermouth Bianco4 cl Aperol2 cl Zitronensaft2 cl Lime Juice",
+    "Bewertung": "3,0 nach 1 Bewertung."
+  },
+  "After Dinner": {
+    "Zutaten": {
+      "ingr1": "3 cl Cura\u00e7ao Triple Sec",
+      "ingr2": "3 cl Apricot Brandy",
+      "ingr3": "3 cl Zitronensaft"
+    },
+    "AlkGehalt": "19,7 Vol.-%",
+    "Plaintext": "3 cl Cura\u00e7ao Triple Sec3 cl Apricot Brandy3 cl Zitronensaft",
+    "Bewertung": "3,1 nach 16 Bewertungen."
+  },
+  "After Eight": {
+    "Zutaten": {
+      "ingr1": "10 cl Ananassaft",
+      "ingr2": "6 cl Bitterlemon",
+      "ingr3": "2 cl Minzsirup",
+      "ingr4": "2 cl Sahne"
+    },
+    "AlkGehalt": "0 Vol.-%",
+    "Plaintext": "10 cl Ananassaft6 cl Bitterlemon2 cl Minzsirup2 cl Sahne",
+    "Bewertung": "3,3 nach 4 Bewertungen."
+  },
+  "After Eight  #2": {
+    "Zutaten": {
+      "ingr1": "4 cl Wodka",
+      "ingr2": "2 cl Pfefferminzsirup",
+      "ingr3": "4 cl Schokoladensirup",
+      "ingr4": "6 cl Milch",
+      "ingr5": "4 cl Sahne"
+    },
+    "AlkGehalt": "8 Vol.-%",
+    "Plaintext": "4 cl Wodka2 cl Pfefferminzsirup4 cl Schokoladensirup6 cl Milch4 cl Sahne",
+    "Bewertung": "3,7 nach 3 Bewertungen."
+  }
+}

@@ -1,0 +1,655 @@
+43 Sour
+        5cl Licor 43,
+        2cl Zitronensaft,
+        1cl Zuckersirup,
+        8cl Orangensaft
+
+43er Sour Summer
+        7cl Licor 43,
+        3cl Zitronensaft,
+        2cl Zuckersirup,
+        9cl Orangensaft,
+        2cl Grenadine
+
+Acapulco Dream
+        3cl Tequila (silver)
+		4cl Grapefruitsaft
+		1cl Rum (braun)
+		10cl Ananassaft
+
+Ambassador
+        6cl Tequila (silver)
+		1 TL Zuckersirup
+		Orangensaft
+
+Anabolica
+        2cl Absinth
+		2cl Wodka
+		160 ml Orangensaft
+
+Ananas Fizz
+        4cl Rum (weiss)
+		4cl Ananassaft
+		2cl Zuckersirup
+        Soda
+
+Apricote Love
+        4cl Pfirsichlikör
+        4cl Wodka
+        1cl Zitronensaft
+        8cl Maracujasaft
+        Orangensaft
+        3cl Cranberrysaft
+
+Bacardi Cocktail
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        0,5 BL Grenadine
+        0,5 BL Zuckersirup
+
+Bacardi Cola
+        4cl Rum (weiss)
+        Cola
+
+Bacardi Cola#2
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        14cl Cola
+
+Bacardi Orange
+        Crushed Ice
+        4cl Rum (weiss)
+        Orangensaft
+
+Bacardi Special
+        4cl Rum (weiss)
+        1cl Limettensaft (frisch)
+        1cl Gin
+        0,5cl Grenadine
+
+Bacardi Sunrise
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        10cl Orangensaft
+        1cl Grenadine
+
+Bahama Bay
+        50 ml Rum (weiss)
+        50 ml Zitronensaft
+        100 ml Orangensaft
+        3 TL Grenadine
+
+Barbados Sunrise
+        6cl Rum (braun)
+        6cl Orangensaft
+        5cl Maracujasaft
+        3cl Limettensaft (frisch)
+        2cl Grenadine
+
+Brasilian Sunrise#2
+        2cl Grenadine
+        4cl Rum (weiss)
+        18cl Maracujasaft
+
+Cape Cod
+        4cl Wodka
+        Cranberrysaft
+
+Captain Cola
+        4cl Rum (braun)
+        Cola
+
+Caribbean Night
+        3cl Rum (braun)
+        1cl Zitronensaft
+        3cl Orangensaft
+        4cl Ananassaft
+        1cl Zuckersirup
+
+Cola Wodka
+        2cl Wodka
+        10cl Cola
+
+Daiquiri
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        1cl Zuckersirup
+
+Don Juan
+        2cl Licor 43
+        6cl Orangensaft
+
+Driver's Punsch
+        1,5cl Limettensaft (frisch)
+        1,5cl Zitronensaft
+        2cl Grenadine
+        3cl Orangensaft
+        3cl Ananassaft
+        4cl Maracujasaft
+
+Feigling-Cola
+        4cl Wodka-Feige
+        Cola
+
+Fireman's Sour
+        4cl Rum (weiss)
+        3cl Limettensaft (frisch)
+        1 EL Grenadine
+
+Fruchtbowle
+        1 Flasche Rum (braun)
+        25cl Ananassaft
+        25cl Orangensaft
+        12cl Zitronensaft
+        2 Flaschen Ginger Ale
+
+Fruit Punch
+        3cl Rum (weiss)
+        1cl Ananassaft
+        1cl Orangensaft
+        0,5cl Zitronensaft
+        nach Geschmack Zuckersirup
+        5cl Ginger Ale
+
+Fuzzy Navel
+        15cl Orangensaft
+        3cl Pfirsichlikör
+        3cl Wodka
+
+Gimlet
+        5cl Gin
+        1cl Limettensaft (frisch)
+
+Gin and Juice
+        2 oz Gin
+        2 oz Grapefruitsaft
+        3 oz Orangensaft
+
+Gin Lewis
+        85 ml Gin
+        300 ml Lewis Hamilton Edition Energiedrink
+
+Gin Sour
+        5cl Gin
+        3cl Zitronensaft
+        2cl Zuckersirup
+
+Gin Tonic
+        4cl Gin
+        Tonic Water
+
+GinnJuice
+        5cl Gin
+        Orangensaft
+
+Golden Daze
+        4cl Gin
+        2cl Pfirsichlikör
+        4cl Orangensaft
+
+Golden Smile
+        1cl Zitronensaft
+        6cl Orangensaft
+        2cl Wodka
+        6cl Ananassaft
+        4cl Licor 43
+
+Golden Sunrise
+                6cl Rum (weiss)
+        2cl Grenadine
+        1 Spritzer Zitronensaft
+        10cl Orangensaft
+        1cl Ananassaft
+
+Greyhound
+        5cl Wodka
+        10cl Grapefruitsaft
+
+Head Shock
+        1 Anteil(e) Tequila (silver)
+        2 Anteil(e) Absinth
+
+Hemingway Special
+        4cl Rum (weiss)
+        4cl Grapefruitsaft
+        1cl Limettensaft (frisch)
+
+Holiday
+        2cl Grenadine
+        5cl Tequila (silver)
+        3cl Zitronensaft
+
+Horse’s Neck
+        4cl Whiskey
+        Ginger Ale
+
+Hurricane
+        4cl Rum (braun)
+        2cl Rum (weiss)
+        1cl Maracujasaft
+        2cl Orangensaft
+        2cl Ananassaft
+
+Inflagranti
+        4cl Wodka
+        2cl Pfirsichlikör
+        2cl Licor 43
+        2cl Limettensaft (frisch)
+        10cl Ananassaft
+
+Jamaican Ice Tea
+        3cl Rum (braun)
+        3cl Rum (weiss)
+        2cl Zitronensaft
+        2cl Pfirsichlikör
+        10cl Cola
+
+Käpt'n Chaos
+        5cl Rum (weiss)
+        3cl Wodka
+        2cl Gin
+        5cl Orangensaft
+        3cl Maracujasaft
+        2cl Zitronensaft
+
+Lemon Drop
+        4cl Wodka
+        2cl Zitronensaft
+        1cl Zuckersirup
+
+Lingomaar
+        4cl Licor 43
+        5cl Maracujasaft
+        3cl Orangensaft
+        3cl Ananassaft
+        2cl Grenadine
+
+Long Island Iced Tea#3
+        2cl Gin
+        2cl Wodka
+        2cl Rum (weiss)
+        2cl Tequila (silver)
+        2cl Zitronensaft
+        Cola
+
+Los Angeles#2
+		4cl	Wodka
+        5cl Zitronensaft
+        2cl Ananassaft
+        9cl Orangensaft
+        2cl Maracujasaft
+        2cl Grenadine
+
+Madras
+        5cl Wodka
+        1 Anteil(e) Orangensaft
+        1 Anteil(e) Cranberrysaft
+
+Mars Explosion
+        1cl Grenadine
+        10cl Orangensaft
+        2cl Wodka
+        2cl Rum (weiss)
+
+Mexican Screwdriver
+        4cl Tequila (silver)
+        10cl Orangensaft
+
+Midnight Lady
+        2cl Zitronensaft
+        3cl Wodka
+        2cl Licor 43
+        5cl Orangensaft
+        10cl Cranberrysaft
+
+Monkey Wrench
+        4cl Rum (weiss)
+        zum Auffüllen Ananassaft
+
+Morning Delight
+        3cl Pfefferminzlikör
+        3cl Wodka
+        6cl Ananassaft
+
+Moscow Mule#2
+        4cl Wodka
+        1cl Limettensaft (frisch)
+        Ginger Ale
+
+Old San Juan Cocktail
+        4cl Rum (braun)
+        1cl Ananassaft
+        1cl Grenadine
+        1cl Zitronensaft
+
+Orange 43
+        2cl Licor 43
+        6cl Orangensaft
+
+Orange Daiquiri
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        4cl Orangensaft
+        1 BL Zuckersirup
+
+Orange Fizz
+        4cl Gin
+        4cl Orangensaft
+        2cl Zitronensaft
+        2cl Zuckersirup
+        Soda
+
+Paradise Island
+        100 ml Kirschsaft
+        50 ml Gin
+        4 TL Grenadine
+        100 ml Ananassaft
+
+Passion Libre
+        4cl Rum (weiss)
+        4cl Limettensaft (frisch)
+        12cl Maracujasaft
+
+Peach Sling
+        4cl Pfirsichlikör
+        2cl Wodka
+        6cl Orangensaft
+        1cl Grenadine
+
+Pearl 43
+        4cl Licor 43
+        12cl Maracujasaft
+        1cl Zitronensaft
+        1cl Grenadine
+
+Pineapple Fizz
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        4cl Ananassaft
+        1cl Zuckersirup
+        Soda
+
+Pink Pussycat
+        4cl Wodka
+        1 Spritzer Grenadine
+        Ananassaft
+
+Pink Pussycat#2
+        1 Schuss Grenadine
+        4cl Gin
+        Ananassaft
+
+Planters Punch#3
+        3cl Rum (braun)
+        3cl Rum (weiss)
+        1cl Zuckersirup
+        1cl Grenadine
+        3cl Zitronensaft
+        4cl Orangensaft
+        evtl. Maracujasaft
+        evtl. Ananassaft
+
+Pomegranate Gin Cocktail
+        4cl Gin
+        3cl Granatapfelsaft
+        Soda
+
+Red Pussycat
+        4cl Wodka
+        10cl Grapefruitsaft
+        1cl Grenadine
+
+Revolicion
+        2cl Tequila (silver)
+        2cl Wodka
+        8cl Orangensaft
+
+Ruben
+        4cl Tequila (silver)
+        2cl Zitronensaft
+        1cl Zuckersirup
+        Soda
+
+Rum Fizz
+        4cl Rum (weiss)
+        2cl Zitronensaft
+        2cl Zuckersirup
+        Soda
+
+Rum Orange
+        4cl Rum (weiss)
+        Orangensaft
+
+Rum-Cola
+        4cl Rum (weiss)
+        Cola
+
+Safari
+        2cl Wodka
+        2cl Zitronensaft
+
+Sapphire Madras
+        5cl Gin
+        10cl Cranberrysaft
+        5cl Orangensaft
+
+Scorpion
+        3cl Rum (braun)
+        3cl Rum (weiss)
+        2cl Grenadine
+        2cl Zitronensaft
+        Maracujasaft
+
+Screwdriver
+        5cl Wodka
+        Orangensaft
+
+Sea Breeze
+        4cl Wodka
+        8cl Cranberrysaft
+        5cl Grapefruitsaft
+        1 Schuss Grenadine
+
+Sex On Tequila Beach
+        4cl Tequila (gold)
+        2cl Pfirsichlikör
+        6cl Orangensaft
+        1 Grenadine
+
+Sex on the Beach
+        2cl Wodka
+        4cl Pfirsichlikör
+        8cl Cranberrysaft
+        Pfirsichsaft
+
+Sex on the Beach#10
+        2cl Wodka
+        2cl Pfirsichlikör
+        2cl Kirschsaft
+        14cl Orangensaft
+
+Sex on the Beach#12
+        4cl Wodka
+        8cl Cranberrysaft
+        2cl Pfirsichlikör
+        8cl Orangensaft
+
+Sex on the Beach#14
+        4cl Wodka
+        4cl Pfirsichlikör
+        2cl Zitronensaft
+        2cl Cranberrysaft
+        8cl Orangensaft
+
+Sex on the Beach#15
+        4cl Wodka
+        2cl Pfirsichlikör
+        8cl Ananassaft
+        8cl Cranberrysaft
+        1 Spritzer Grenadine
+
+Sex on the Beach#17
+        4cl Wodka
+        2cl Grenadine
+        2cl Pfirsichlikör
+        6cl Orangensaft
+        3cl Maracujasaft
+
+Sex on the Beach#18
+        4cl Wodka
+        2cl Pfirsichlikör
+        2cl Zitronensaft
+        Cranberrysaft
+        Ananassaft
+
+Sex on the Beach#19
+        4cl Wodka
+        4cl Pfirsichlikör
+        3cl Grenadine
+        Ananassaft
+
+Sex on the Beach#4
+        2cl Wodka
+        3cl Pfirsichlikör
+        4cl Orangensaft
+        4cl Kirschsaft
+        6cl Ananassaft
+
+Sex on the Beach#6
+        4cl Wodka
+        2cl Pfirsichlikör
+        2cl Grenadine
+        3cl Zitronensaft
+        1cl Zuckersirup
+        8cl Maracujasaft
+
+Sex on the Beach#7
+        4cl Wodka
+        2cl Pfirsichlikör
+        8cl Cranberrysaft
+        8cl Orangensaft
+        1cl Grenadine
+
+Sex on the Beach#8
+        4cl Wodka
+        2cl Pfirsichlikör
+        6cl Cranberrysaft
+        Ananassaft
+        Orangensaft
+
+Sex on the Beach#9
+        2cl Wodka
+        2cl Pfirsichlikör
+        6cl Orangensaft
+        3cl Grenadine
+        4cl Ananassaft
+
+Silver Rum Fizz
+        6cl Rum (weiss)
+        4cl Zitronensaft
+        2cl Zuckersirup
+        Soda
+
+Sombrero Cooler
+        4cl Rum (weiss)
+        6cl Ananassaft
+        6cl Grapefruitsaft
+
+Spanish Martini
+        2cl Licor 43
+        4cl Gin
+
+Sweet Russian
+        3cl Wodka
+        3cl Pfirsichlikör
+        2cl Zitronensaft
+        6cl Maracujasaft
+
+Tamagotchi
+        10cl Soda
+        4cl Wodka
+        2cl Zitronensaft
+        2cl Zuckersirup
+        1cl Grenadine
+
+Tequila Fizz
+        6cl Tequila (silver)
+        4cl Zitronensaft
+        2cl Zuckersirup
+        Soda
+
+Tequila Maracuja
+        4cl Tequila (silver)
+        Maracujasaft
+        Crushed Ice
+
+Tequila Sunrise
+        4cl Tequila (silver)
+        Orangensaft
+        2cl Zitronensaft
+        2cl Grenadine
+
+Tequila Sunrise#2
+        5cl Tequila (gold)
+        10cl Orangensaft
+        1cl Grenadine
+
+Tequila Sunrise#3
+        Tequila (silver)
+        Zitronensaft
+        Orangensaft
+        Grenadine
+
+The Waikiki
+        4cl Wodka
+        12cl Ananassaft
+
+Tom
+        4cl Gin
+        2cl Zitronensaft
+        2cl Zuckersirup
+        Soda
+
+Tropical Hurricane
+        4cl Rum (braun)
+        2cl Rum (weiss)
+        3cl Orangensaft
+        2cl Zitronensaft
+        2cl Ananassaft
+        Crushed Ice
+
+Vodka Cranberry
+        4cl Wodka
+        12cl Cranberrysaft
+
+Wodka Cooler
+        5cl Wodka
+        3cl Zitronensaft
+        2cl Zuckersirup
+        Ginger Ale
+
+Wodka Gimlet
+        5cl Wodka
+        1cl Limettensaft (frisch)
+
+Wodka Red Bull
+        4cl Wodka
+        Energiedrink
+
+Wodka Sunrise
+        4cl Wodka
+        3cl Tequila (silver)
+        6cl Orangensaft
+        1cl Grenadine
+
+Wodka Tonic
+        4cl Wodka
+        Tonic Water
+
+Woo Woo
+        2cl Pfirsichlikör
+        2cl Rum (weiss)
+        2cl Wodka
+        2cl Zitronensaft
+        4cl Ananassaft
+        4cl Cranberrysaft
