@@ -1,0 +1,11 @@
+import random
+from time import sleep
+abc = ['A', 'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
+while 1:
+    inp = input()
+    if inp == ' ':
+        print('Go')
+        x = random.randint(0,25)
+        y = random.randint(2,5)
+        sleep(y)
+        print(abc[x])

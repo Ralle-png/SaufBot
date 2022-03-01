@@ -1,0 +1,37 @@
+{
+  "37 - ThirtySeven": {
+    "Zutaten": {
+      "ingr1": "4 cl Rum Cuba",
+      "ingr2": "4 cl Rum Jamaica",
+      "ingr3": "4 cl Rum Spiced, Captain Morgan Spiced Gold",
+      "ingr4": "2 cl Zitronensaft",
+      "ingr5": "2 cl Creme De Cacao (weiss)",
+      "ingr6": "4 cl Erdbeersirup",
+      "ingr7": "10 cl Bananennektar",
+      "ingr8": "Rum Cuba"
+    },
+    "AlkGehalt": "17,6 Vol.-%",
+    "Plaintext": "4 cl Rum Cuba4 cl Rum Jamaica4 cl Rum Spiced, Captain Morgan Spiced Gold2 cl Zitronensaft2 cl Creme De Cacao (weiss)4 cl Erdbeersirup10 cl Bananennektar",
+    "Bewertung": "5,0 nach 9 Bewertungen."
+  },
+  "43 Sour": {
+    "Zutaten": {
+      "ingr1": "5 cl Licor43",
+      "ingr2": "2 cl Zitronensaft",
+      "ingr3": "1 cl Zuckersirup",
+      "ingr4": "Orangensaft"
+    },
+    "AlkGehalt": "10,6 Vol.-%",
+    "Plaintext": "5 cl Licor43 2 cl Zitronensaft1 cl Zuckersirup8 cl Orangensaft",
+    "Bewertung": "5,0 nach 2 Bewertungen."
+  },
+  "43 Sunset": {
+    "Zutaten": {
+      "ingr1": "8 cl Maracujasaft",
+      "ingr2": "4 cl Ananassaft",
+      "ingr3": "3 cl Licor43",
+      "ingr4": "2 cl Kokoslik\u00f6r, Malibu",
+      "ingr5": "2 cl Wodka"
+    }
+  }
+}
