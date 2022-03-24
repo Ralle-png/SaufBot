@@ -6,6 +6,11 @@ while 1:
     if inp == ' ':
         print('Go')
         x = random.randint(0,25)
-        y = random.randint(2,5)
-        sleep(y)
+        y = random.randint(2,12)
+
+        while y > 0:
+            print(y)
+            sleep(1)
+            y -= 1
+
         print(abc[x])
