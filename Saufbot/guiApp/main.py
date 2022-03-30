@@ -9,7 +9,7 @@ from kivy.uix.scrollview import ScrollView
 from kivy.uix.slider import Slider
 from kivy.uix.stacklayout import StackLayout
 from kivy.uix.screenmanager import ScreenManager,Screen
-
+from kivy.lang import Builder
 
 
 # class TestButton (Button):
@@ -61,9 +61,9 @@ sm.add_widget(LuckyScreen(name='lucky'))
 sm.add_widget(KonfiScreen(name='konfi'))
 sm.add_widget(ManagerScreen(name='manager'))
 
-class Interfaze(App):
+class guiApp(App):
     def build(self):
         pass
 
 if __name__ == '__main__' :
-    Interfaze().run()
+    guiApp().run()
