@@ -1,0 +1,80 @@
+{
+  "alk": {
+    "anz": 5,
+    "alk0": {
+      "name": "Vodka",
+      "preis": "7",
+      "inhalt": "750",
+      "fuellstand": "750"
+    },
+    "alk1": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "alk2": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "alk3": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "alk4": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "alk5": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "alk6": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    }
+  },
+  "mische": {
+    "mische0": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "mische1": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "mische2": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "mische3": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    },
+    "mische4": {
+      "name": "",
+      "preis": "",
+      "inhalt": "",
+      "fuellstand": ""
+    }
+  },
+  "extra": {}
+}

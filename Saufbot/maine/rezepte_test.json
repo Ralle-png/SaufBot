@@ -1,0 +1,49 @@
+{
+  "37 - ThirtySeven": {
+    "Zutaten": {
+      "ingr1": "4 cl Rum Cuba",
+      "ingr2": "4 cl Rum_jamaica",
+      "ingr3": "4 cl Captain Morgan Gold",
+      "ingr4": "2 spritzer Zitronensaft",
+      "ingr5": "2 cl Creme de Cacao Weiss",
+      "ingr6": "4 cl Erdbeersirup",
+      "ingr7": "10 cl Bananennektar"
+    },
+    "AlkGehalt": "17,6 Vol.-%",
+    "Plaintext": "4 cl Rum Cuba4 cl Rum_jamaica4 cl Rum Spiced, Captain Morgan Spiced Gold2 cl Zitronensaft2 cl Creme De Cacao (weiss)4 cl Erdbeersirup10 cl Bananennektar",
+    "Bewertung": "5,0 nach 9 Bewertungen."
+  },
+  "43 Sour": {
+    "Zutaten": {
+      "ingr1": "5 cl LicorFourtyThree",
+      "ingr2": "2 cl Zitronensaft",
+      "ingr3": "1 cl Zuckersirup",
+      "ingr4": "8 cl Orangensaft"
+    },
+    "AlkGehalt": "10,6 Vol.-%",
+    "Plaintext": "5 cl LicorFourtyThree 2 cl Zitronensaft1 cl Zuckersirup8 cl Orangensaft",
+    "Bewertung": "5,0 nach 2 Bewertungen."
+  },
+  "43 Sunset": {
+    "Zutaten": {
+      "ingr1": "8 cl Maracujasaft",
+      "ingr2": "4 cl Ananassaft",
+      "ingr3": "3 cl LicorFourtyThree",
+      "ingr4": "2 cl Malibu",
+      "ingr5": "2 cl Wodka"
+    },
+    "AlkGehalt": "11,7 Vol.-%",
+    "Plaintext": "8 cl Maracujasaft4 cl Ananassaft3 cl LicorFourtyThree 2 cl Malibu2 cl Wodka",
+    "Bewertung": "5,0 nach 22 Bewertungen."
+  },
+  "43er a\u00f9 lait": {
+    "Zutaten": {
+      "ingr1": "LicorFourtyThree",
+      "ingr3": "Milch",
+      "ingr2": "Absinth"
+    },
+    "AlkGehalt": "34,7 Vol.-%",
+    "Plaintext": "LicorFourtyThree MilchAbsinth",
+    "Bewertung": "4,1 nach 9 Bewertungen."
+  }
+}

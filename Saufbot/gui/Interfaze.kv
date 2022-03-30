@@ -1,0 +1,92 @@
+#:kivy 2.1.0
+ScreenManager:
+    StartScreen:
+    MenuScreen:
+    MixerScreen:
+    LuckyScreen:
+    KonfiScreen:
+    ManagerScreen:
+
+<StartScreen>:
+    name:'start'
+    BoxLayout:
+        Button:
+            size_hint: 1, .4
+            pos_hint: {"center_y": .5}
+            text:"Alle Drinks"
+            on_press: root.manager.current = 'menu'
+        Button:
+            text:"Drinkmixer"
+            size_hint: 1, .4
+            pos_hint: {"center_y": .5}
+        Button:
+            text:"Im feeling lucky"
+            size_hint: 1, .4,
+            pos_hint: {"center_y": .5}
+        Button:
+            text:"Konfigurieren"
+            size_hint: 1, .4
+            pos_hint: {"center_y": .5}
+        Button:
+            text:"Backend"
+            size_hint: 1, .4
+            pos_hint: {"center_y": .5}
+
+<MenuScreen>:
+    name:'menu'
+    BoxLayout:
+        orientation:'horizontal'
+        spacing: 5
+        BoxLayout:
+            size_hint: .3, 1
+            DrinkStack:
+                size_hint: 1, None
+                height: self.minimum_height
+
+        BoxLayout:
+            orientation:'vertical'
+
+            BoxLayout:
+                orientation: 'vertical'
+
+                BoxLayout:
+                    orientation: 'horizontal'
+                    BoxLayout:
+                        orientation: 'vertical'
+                        Button:
+                            text: 'Rumäner Cocktail'
+                            size_hint: 1, .5
+                        Button:
+                            text: '2 cl Rum\n2 cl Rum\n2 cl Rum'
+                        Button:
+                            text: '101% Alk'
+                            size_hint: 1, .5
+                    BoxLayout:
+                        size_hint: .2, 1
+                        BoxLayout:
+                            size_hint: .3, 1
+                            orientation:'vertical'
+                            Label:
+                                text:'hart'
+                            Label:
+                                text:'normal'
+                            Label:
+                                text:'leicht'
+                        Slider:
+                            size_hint: .2, 1
+                            orientation: 'vertical'
+            Button:
+                size_hint: 1, .4
+                text: 'Bestellen'
+<MixerScreen>:
+    name:'mixer'
+
+<LuckyScreen>:
+    name:'lucky'
+
+<KonfiScreen>:
+    name:'konfi'
+
+<ManagerScreen>:
+    name:'manager'
+

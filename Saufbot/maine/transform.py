@@ -1,5 +1,6 @@
 import re, json
 
+
 with open('dump.json', 'r') as dict, open('rezepte_.json', 'r') as chg:
     dict = json.load(dict)
     dump = json.load(chg)
@@ -13,7 +14,7 @@ with open('dump.json', 'r') as dict, open('rezepte_.json', 'r') as chg:
             if(matches != None):
                 result = matches.span()
                 ingr = re.sub(ingr[matches.start() : matches.end()], '',dump[str(rezept)]['Zutaten'][ing])
-                print(ingr)
+                print(ingr[matches.start() : matches.end()])
 
 
 
