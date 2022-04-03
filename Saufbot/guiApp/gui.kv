@@ -37,11 +37,33 @@ ScreenManager:
     BoxLayout:
         orientation:'horizontal'
         spacing: 5
+
+        #  Butons + Drinks
         BoxLayout:
             size_hint: .3, 1
-            DrinkStack:
-                size_hint: 1, None
-                height: self.minimum_height
+
+            BoxLayout:
+                orientation: "vertical"
+                # Buttons
+                BoxLayout:
+                    size_hint: 1, .1
+                    Button:
+                        text:'<-'
+                        on_press: root.on_button_click(self)
+                    Label:
+                        text:root.buchstabe
+                    Button:
+                        text:'->'
+                        on_press: root.on_button_click(self)
+                # Drinks
+                ScrollView:
+                    DrinkStack:
+                        size_hint: 1, None
+                        height: self.minimum_height
+
+
+
+
 
         BoxLayout:
             orientation:'vertical'
@@ -66,18 +88,26 @@ ScreenManager:
                         BoxLayout:
                             size_hint: .3, 1
                             orientation:'vertical'
-                            Label:
+                            Button:
                                 text:'hart'
-                            Label:
+                            Button:
                                 text:'normal'
-                            Label:
+                            Button:
                                 text:'leicht'
                         Slider:
                             size_hint: .2, 1
                             orientation: 'vertical'
-            Button:
-                size_hint: 1, .4
-                text: 'Bestellen'
+
+            BoxLayout:
+                orientation:'horizontal'
+                size_hint: 1, .2
+                Button:
+                    size_hint: .8, 1
+                    text: 'Bestellen'
+
+                Button:
+                    size_hint: .2, 1
+                    text:'Zurück'
 <MixerScreen>:
     name:'mixer'
 
