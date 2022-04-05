@@ -57,7 +57,9 @@ ScreenManager:
                         on_press: root.on_button_click(self)
                 # Drinks
                 ScrollView:
+                    id: ds2
                     DrinkStack:
+                        id: ds1
                         size_hint: 1, None
                         height: self.minimum_height
 
@@ -75,13 +77,16 @@ ScreenManager:
                     orientation: 'horizontal'
                     BoxLayout:
                         orientation: 'vertical'
-                        Button:
-                            text: 'Rumäner Cocktail'
+                        Label:
+                            id: titel
+                            text: root.titel
                             size_hint: 1, .5
-                        Button:
-                            text: '2 cl Rum\n2 cl Rum\n2 cl Rum'
-                        Button:
-                            text: '101% Alk'
+                        Label:
+                            id: zutaten
+                            text: root.zutaten
+                        Label:
+                            id: alkgehalt
+                            text: root.alkgehalt
                             size_hint: 1, .5
                     BoxLayout:
                         size_hint: .2, 1
@@ -108,6 +113,7 @@ ScreenManager:
                 Button:
                     size_hint: .2, 1
                     text:'Zurück'
+                    on_press: root.manager.current = 'start'
 <MixerScreen>:
     name:'mixer'
 
